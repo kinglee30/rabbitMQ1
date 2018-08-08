@@ -9,7 +9,7 @@ public class Customer {
 	private String t_wname;//微信名
 	private String f_phone;
 	public String getF_phone() {
-		return f_phone;
+		return f_phone ;
 	}
 	public void setF_phone(String f_phone) {
 		this.f_phone = f_phone;
